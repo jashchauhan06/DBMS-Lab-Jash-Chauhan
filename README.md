@@ -30,26 +30,26 @@ DBMS-Lab-Jash-Chauhan-/
 
 ## 🧪 Experiments Overview
 
-| Exp No. | Topic |
-|---------|-------|
-| Exp 01  | Introduction to SQL — DDL Commands (CREATE, ALTER, DROP) |
-| Exp 02  | DML Commands (INSERT, UPDATE, DELETE) |
-| Exp 03  | SELECT Queries and WHERE Clause |
-| Exp 04  | Aggregate Functions (COUNT, SUM, AVG, MIN, MAX) |
-| Exp 05  | GROUP BY, HAVING, and ORDER BY Clauses |
-| Exp 06  | Joins — INNER, LEFT, RIGHT, FULL OUTER |
-| Exp 07  | Subqueries and Nested Queries |
-| Exp 08  | Views — Creating and Managing |
-| Exp 09  | Integrity Constraints (PRIMARY KEY, FOREIGN KEY, CHECK, UNIQUE, NOT NULL) |
-| Exp 10  | Set Operations (UNION, INTERSECT, MINUS) |
-| Exp 11  | Indexes — Creating and Dropping |
-| Exp 12  | PL/SQL Basics — Blocks, Variables, Control Structures |
-| Exp 13  | PL/SQL — Cursors (Implicit and Explicit) |
-| Exp 14  | PL/SQL — Stored Procedures |
-| Exp 15  | PL/SQL — Functions |
-| Exp 16  | PL/SQL — Triggers |
-| Exp 17  | PL/SQL — Exception Handling |
-| Exp 18  | Transactions — COMMIT, ROLLBACK, SAVEPOINT |
+| Exp | Topic | Key Concepts |
+|-----|-------|--------------|
+| 01 | University Database — ER & EER Diagram, Schema Design | Entities, Relationships, Constraints, Normalization |
+| 02 | DDL, DML, Views, Sequences | CREATE, INSERT, ALTER, DELETE, UPDATE, Views, Sequences |
+| 03 | SQL Built-in Functions | Aggregate, Numeric, Date, String, Conversion functions |
+| 04 | SQL Operators | AND, OR, NOT, LIKE, BETWEEN, IN |
+| 05 | SQL Joins | INNER, LEFT, RIGHT, FULL OUTER JOIN |
+| 06 | PL/SQL Procedures | Stored procedures, parameter passing |
+| 07 | PL/SQL Control Loops | IF-ELSE, WHILE, FOR, LOOP |
+| 08 | Procedure — Exam Grading System | Total, Average, Grade calculation |
+| 09 | Airline Reservation System | Database design, PL/SQL blocks |
+| 10 | PL/SQL Exception Handling | RAISE, EXCEPTION block, user-defined exceptions |
+| 11 | PL/SQL Function — Reverse a Number | Functions, return values |
+| 12 | PL/SQL Functions (Various) | Multiple function implementations |
+| 13 | Triggers — Row & Statement Level | CREATE TRIGGER, :OLD, :NEW |
+| 14 | Trigger — Airline Reservation | DML triggers on reservation table |
+| 15 | Trigger — Banking (Weekday Only) | Day-based restriction, exception raising |
+| 16 | Trigger — Employee Salary Validation | Min/Max salary constraint via trigger |
+| 17 | Trigger — Salary Audit Log | Audit table (SAL_MOD), UPDATE trigger |
+| 18 | Trigger — Full DML Audit on EMP | AUDIT_EMP table, INSERT/UPDATE/DELETE logging |
 
 ---
 
