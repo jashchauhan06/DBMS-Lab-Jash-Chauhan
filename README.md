@@ -1,9 +1,6 @@
 # 🗄️ DBMS Lab — Jash Chauhan
 
 This repository contains all lab experiments for the **Database Management Systems (DBMS)** course.  
-Each experiment is organized in its own folder with relevant SQL scripts and output screenshots.
-
----
 
 ## 📁 Repository Structure
 
@@ -53,8 +50,6 @@ DBMS-Lab-Jash-Chauhan-/
 | Exp 16  | PL/SQL — Triggers |
 | Exp 17  | PL/SQL — Exception Handling |
 | Exp 18  | Transactions — COMMIT, ROLLBACK, SAVEPOINT |
-
-> **Note:** Update this table if the actual experiment topics differ from the listed ones.
 
 ---
 
